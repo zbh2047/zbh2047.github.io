@@ -85,7 +85,7 @@ author:
   bio              : "A Phd. student at Peking University"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hJgT4tYAAAAJ"
   wechat           : "/images/wechat.jpg"
   email            : "zhangbohang@pku.edu.cn"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.cn/injobs/in/zhangbohang"
+  linkedin         : "zhangbohang"
   orcid            : 
   pinterest        :
   soundcloud       :
