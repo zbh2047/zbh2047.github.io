@@ -12,19 +12,19 @@ Hi! I'm Bohang Zhang (张博航), a third-year Phd. student at Peking University
 
 My main research area lies in machine learning, with special interests in trustworthy and reliable machine learning. Currently I am forcusing on designing neural networks with *certified* robustness gurantees, i.e. provable robustness under adversarial attacks. Besides this, I am also intersted in designing and analyzing optimization algorithms for efficient neural network training.
 
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat.
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
 
 Publications (see the Publications page for more details)
-======
-(<sup>\*</sup> means equal contribution)
+=\* means equal contribution)
+
 [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850). **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In **ICLR 2022**. ([Code](https://github.com/zbh2047/L_inf-dist-net-v2))
 
 [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2110.06850). **Bohang Zhang**, Tianle Cai, Zhou Lu, Di He, Liwei Wang. In **ICML 2021**. ([Code](https://github.com/zbh2047/L_inf-dist-net))
 
-[Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459). Jikai Jin<sup>\*</sup>, **Bohang Zhang<sup>\*</sup>**, Haiyang Wang, Liwei Wang. In **NeurIPS 2021**.
+[Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459). Jikai Jin\*, **Bohang Zhang\*, Haiyang Wang, Liwei Wang. In **NeurIPS 2021**.
 
-[Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519). **Bohang Zhang<sup>\*</sup>**, Jikai Jin<sup>\*</sup>, Cong Fang, Liwei Wang. In **NeurIPS 2020**. ([Code](https://github.com/zbh2047/clipping-algorithms))
+[Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519). **Bohang Zhang\***, Jikai Jin\*, Cong Fang, Liwei Wang. In **NeurIPS 2020**. ([Code](https://github.com/zbh2047/clipping-algorithms))
 
 Selected Awards
 ======
