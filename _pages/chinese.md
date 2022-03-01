@@ -19,7 +19,7 @@ author_profile: true
 [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 **ICLR 2022**. \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 
-[Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2110.06850).\\
+[Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
 **张博航**, 蔡天乐, 陆洲, 贺笛, 王立威. 发表于 **ICML 2021**. \[[代码](https://github.com/zbh2047/L_inf-dist-net)\]
 
 [Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
@@ -35,7 +35,7 @@ author_profile: true
 
 - ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificate.pdf)\]
 
-- ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate)\]
+- ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 
 - **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
 

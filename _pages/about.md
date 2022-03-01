@@ -24,7 +24,7 @@ Publications
 [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In **ICLR 2022**. \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 
-[Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2110.06850).\\
+[Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
 **Bohang Zhang**, Tianle Cai, Zhou Lu, Di He, Liwei Wang. In **ICML 2021**. \[[Code](https://github.com/zbh2047/L_inf-dist-net)\]
 
 [Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
@@ -40,7 +40,7 @@ ACM ICPC **World Finalist** (ranking 41/135), Porto Portugal, 2019. \[[Certifica
 
 ACM ICPC East Asia Continent Final **Gold Medal** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificate.pdf)\]
 
-ACM ICPC **2nd Runner up** (Gold Medal, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate)\]
+ACM ICPC **2nd Runner up** (Gold Medal, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 
 **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
 
