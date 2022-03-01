@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Bohang Zhang (张博航), a third-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I finished my undergraduate study at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majored in Computer Science.
 
-My main research area lies in machine learning, with special interests in trustworthy and reliable machine learning. Currently I am forcusing on designing neural networks with *certified* robustness gurantees, i.e. provable robustness under adversarial attacks. Besides this, I am also intersted in designing and analyzing optimization algorithms for efficient neural network training.
+My main research area lies in machine learning, with special interests in trustworthy and reliable machine learning. Currently I am focusing on designing neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks. Besides this, I am also intersted in designing and analyzing optimization algorithms for efficient neural network training.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
