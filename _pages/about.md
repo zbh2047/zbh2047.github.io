@@ -15,8 +15,9 @@ My main research area lies in machine learning, with special interests in trustw
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
 
-Publications (see the Publications page for more details)
+Publications
 ======
+<font size="1">see the [Publications](/publications/)</font> page for more details 
 
 (\* means equal contribution)
 
