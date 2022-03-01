@@ -16,7 +16,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 Publications (see the Publications page for more details)
-=\* means equal contribution)
+======
+
+(\* means equal contribution)
 
 [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In **ICLR 2022**. ([Code](https://github.com/zbh2047/L_inf-dist-net-v2))
