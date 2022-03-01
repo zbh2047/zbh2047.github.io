@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hJgT4tYAAAAJ"
+  wechat           : "/images/wechat.jpg"
   email            : "zhangbohang@pku.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Bohang-Zhang/"
   uri              :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zbh2047"
+  github           : "zbh2047"
   google_plus      :
   keybase          :
   instagram        :
