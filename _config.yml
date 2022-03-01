@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bohang Zhang's Homepage"
+title                    : "Bohang Zhang's Homepage (张博航)"
 title_separator          : "-"
 name                     : &name "Bohang Zhang"
-description              : &description "Peking University"
+description              : &description "Phd. student at Peking University"
 url                      : https://zbh2047.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zbh2047/zbh2047.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Bohang Zhang"
-  avatar           : "profile.png"
-  bio              : "I am a third-year Phd. student in Peking University."
+  avatar           : "profile.jpg"
+  bio              : "A Phd. student at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

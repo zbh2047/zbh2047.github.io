@@ -192,6 +192,12 @@
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin-square:before { content: fa-content($fa-var-linkedin); }
 
+.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat-square:before { content: fa-content($fa-var-wechat); }
+
 .#{$fa-css-prefix}.#{$fa-css-prefix}-thumb-tack:before { content: fa-content($fa-var-thumbtack); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-external-link:before { content: fa-content($fa-var-external-link-alt); }
@@ -342,6 +348,12 @@
   font-weight: 400;
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin:before { content: fa-content($fa-var-linkedin-in); }
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat:before { content: fa-content($fa-var-wechat-in); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-rotate-left:before { content: fa-content($fa-var-undo); }
 
