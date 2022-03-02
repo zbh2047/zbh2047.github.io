@@ -71,8 +71,8 @@ Awards
 Skills
 ======
 * Rich knowledge and experience in data structures and algorithms;
-* Familiar with machine learning theories, algorithms and deep learning(CNN)
-* Skilled at Pytorch framework
+* Familiar with machine learning theories, algorithms and deep learning(CNN);
+* Skilled at Pytorch framework;
 * Skilled at C++, Python and CUDA programming languages.
   
 Services
