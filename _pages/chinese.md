@@ -14,13 +14,13 @@ author_profile: true
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。<sub>
 
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
-**张博航**, 姜度, 贺笛, 王立威. 发表于 **ICLR 2022**. \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
+**张博航**, 姜度, 贺笛, 王立威. 发表于 [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
-**张博航**, 蔡天乐, 陆洲, 贺笛, 王立威. 发表于 **ICML 2021**. \[[代码](https://github.com/zbh2047/L_inf-dist-net)\]
+**张博航**, 蔡天乐, 陆洲, 贺笛, 王立威. 发表于 [**ICML 2021**](https://icml.cc/Conferences/2021). \[[代码](https://github.com/zbh2047/L_inf-dist-net)\]
 * [Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
-金及凯\*, **张博航\***, 汪海洋, 王立威. 发表于 **NeurIPS 2021**.
+金及凯\*, **张博航\***, 汪海洋, 王立威. 发表于 [**NeurIPS 2021**](https://nips.cc/Conferences/2021).
 * [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
-**张博航\***, 金及凯\*, 方聪, 王立威. 发表于 **NeurIPS 2020**. \[[代码](https://github.com/zbh2047/clipping-algorithms)\]
+**张博航\***, 金及凯\*, 方聪, 王立威. 发表于 [**NeurIPS 2020**](https://nips.cc/Conferences/2020). \[[代码](https://github.com/zbh2047/clipping-algorithms)\]
 
 部分荣誉
 ======
