@@ -16,6 +16,7 @@ Education
 GPA: 4.06/4.3
 
 **Selected Courses:**
+
 Math courses:
 * Linear Algebra: 99 / 100
 * Mathematical Analysis (III): 97 / 100
