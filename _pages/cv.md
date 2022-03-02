@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -55,9 +54,9 @@ Publications
 Awards
 ======
 * ACM ICPC **World Finalist** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]
-* ACM ICPC East Asia Continent Final **Gold Medal** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificate.pdf)\]
-* ACM ICPC East Asia Continent Final **Gold Medal**, Shanghai China, 2017. \[[Certificate](/files/ECFinalCertificate2017.pdf)\]
-* ACM ICPC **2nd Runner up** (Gold Medal, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
+* ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificate.pdf)\]
+* ACM ICPC East Asia Continent Final **Gold Award**, Shanghai China, 2017. \[[Certificate](/files/ECFinalCertificate2017.pdf)\]
+* ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
 * **First Prize at national level** in China Undergraduate Mathematical Modeling Contest, 2017.
 * **Gold Award** (ranking 21/488) in CCF Collegiate Computer System and Programming Contest, 2018.
