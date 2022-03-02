@@ -12,9 +12,9 @@ author_profile: true
 
 已发表论文
 ======
-<sub>详情见[论文列表](/publications/)<sub>
+<sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。<sub>
 
-(\* 表示共同第一作者)
+()
 
 [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 **ICLR 2022**. \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]

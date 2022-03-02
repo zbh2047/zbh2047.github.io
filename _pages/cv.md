@@ -48,9 +48,6 @@ Physics courses:
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In **ICLR 2022**. \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]

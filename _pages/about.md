@@ -17,20 +17,18 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 Publications
 ======
-<sub>see the [Publications](/publications/) page for more details <sub>
+<sub>\* means equal contribution. See the [Publications](/publications/) page for more details. <sub>
 
-(\* means equal contribution)
-
-[Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
+* [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In **ICLR 2022**. \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 
-[Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
+* [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
 **Bohang Zhang**, Tianle Cai, Zhou Lu, Di He, Liwei Wang. In **ICML 2021**. \[[Code](https://github.com/zbh2047/L_inf-dist-net)\]
 
-[Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
+* [Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
 Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In **NeurIPS 2021**.
 
-[Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
+* [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
 **Bohang Zhang\***, Jikai Jin\*, Cong Fang, Liwei Wang. In **NeurIPS 2020**. \[[Code](https://github.com/zbh2047/clipping-algorithms)\]
 
 Selected Awards
