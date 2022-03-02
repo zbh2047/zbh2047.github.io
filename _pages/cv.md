@@ -39,7 +39,6 @@ Physics courses:
 * Thermology: 99 / 100
 * Optics: 95 / 100
 * Electromagnetism: 94 / 100
-* Electromagnetism: 94 / 100
 * Theoretical Mechanics: 93 / 100
 * Mechanics of Materials: 99 / 100
 * Modern Physics: 98 / 100
