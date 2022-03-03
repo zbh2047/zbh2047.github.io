@@ -2,6 +2,7 @@
 title: "关于我"
 permalink: /chinese/
 author_profile: true
+excerpt: "My homepage in Chinese."
 ---
 
 我叫张博航，目前是北京大学博士三年级学生，导师是[王立威](http://www.liweiwang-pku.com/)教授。在此之前，我就读于西安交通大学少年班，专业为计算机科学。
