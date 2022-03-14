@@ -31,3 +31,8 @@ excerpt: "My homepage in Chinese."
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 * **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
 
+---
+<center>
+<sub>访客分布 <sub>
+<a href="https://clustrmaps.com/site/1bnbv" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=6e79bf&w=600&t=tt&d=g5Aslr0Ib3K9apqhyZbqykrtT9i1UzDxN64dEOprFLE&co=ffffff&ct=202020" /></a>
+</center>
