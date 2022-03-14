@@ -13,7 +13,7 @@ Education
 * B.S. in School of the Gifted Young (Computer Science), Xi'an Jiaotong University, 2013-2019
 * Ph.D. in School of Electronic Engineering and Computer Science, Peking University, 2019-2024 (expected)
 
-GPA: 4.03/4.3
+GPA: 4.03/4.3 ([Full transcript here](/files/transcript.pdf))
 
 **Selected Courses:**
 
@@ -61,10 +61,10 @@ Awards
 ======
 * ACM ICPC **World Finalist** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificate.pdf)\]
-* ACM ICPC East Asia Continent Final **Gold Award** (ranking 20), Shanghai China, 2017. \[[Certificate](/files/ECFinalCertificate2017.pdf)\]
+* ACM ICPC East Asia Continent Final **Gold Award** (ranking 20), Shanghai China, 2017. \[[Certificate](/files/ECFinalShanghaiCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
-* **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017.
+* **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017. \[[Certificate](MathModelingCertificate.pdf)\]
 * **Gold Award** (ranking 21/488) in CCF Collegiate Computer System and Programming Contest, 2018.
 
 Skills
