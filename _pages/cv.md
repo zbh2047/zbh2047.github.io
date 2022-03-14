@@ -64,7 +64,7 @@ Awards
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 20), Shanghai China, 2017. \[[Certificate](/files/ECFinalShanghaiCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
-* **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017. \[[Certificate](MathModelingCertificate.pdf)\]
+* **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017. \[[Certificate](/files/MathModelingCertificate.pdf)\]
 * **Gold Award** (ranking 21/488) in CCF Collegiate Computer System and Programming Contest, 2018.
 
 Skills
