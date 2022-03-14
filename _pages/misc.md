@@ -18,8 +18,8 @@ Some Undergraduate Projects
 (I will update it in a few days.)
 
 ---
-<center><sub>访客分布 </sub></center>
+<center><sub>Visitor distribution </sub></center>
 
 <center>
-<a href="https://clustrmaps.com/site/1bnbv" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=6e79bf&w=600&t=tt&d=g5Aslr0Ib3K9apqhyZbqykrtT9i1UzDxN64dEOprFLE&co=ffffff&ct=202020" /></a>
+<a href='https://clustrmaps.com/site/1bnbv'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=6e799f&w=600&t=tt&d=g5Aslr0Ib3K9apqhyZbqykrtT9i1UzDxN64dEOprFLE&co=ffffff&ct=202020'/></a>
 </center>
