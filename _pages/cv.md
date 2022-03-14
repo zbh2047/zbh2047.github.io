@@ -13,7 +13,7 @@ Education
 * B.S. in School of the Gifted Young (Computer Science), Xi'an Jiaotong University, 2013-2019
 * Ph.D. in School of Electronic Engineering and Computer Science, Peking University, 2019-2024 (expected)
 
-GPA: 4.06/4.3
+GPA: 4.03/4.3
 
 **Selected Courses:**
 
