@@ -26,8 +26,8 @@ excerpt: "My homepage in Chinese."
 部分荣誉
 ======
 
-* ACM ICPC **世界总决赛选手** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]
-* ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificate.pdf)\]
+* ACM ICPC **世界总决赛选手** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
+* ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 * **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
 

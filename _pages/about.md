@@ -31,8 +31,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 Selected Awards
 ======
 
-* ACM ICPC **World Finalist** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]
-* ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificate.pdf)\]
+* ACM ICPC **World Finalist** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
+* ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
 
