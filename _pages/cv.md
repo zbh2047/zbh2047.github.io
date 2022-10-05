@@ -48,6 +48,8 @@ Physics courses:
 Publications
 ======
 
+* [Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://arxiv.org/abs/2210.01787).\\
+**Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022 (with <font color=red>three reviews of strong accept!</font>)**](https://nips.cc/Conferences/2022). \[[Code](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
@@ -74,6 +76,7 @@ Skills
 * Skilled at Pytorch framework;
 * Skilled at C++, Python and CUDA programming languages.
 
-Services
+Professional Services
 ======
-* Reviewer for ICML 2022.
+* Reviewer for ICML 2022, NeurIPS 2022.
+* Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
