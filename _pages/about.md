@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bohang Zhang (张博航), a third-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I finished my undergraduate study at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majored in Computer Science.
+Hi! I'm Bohang Zhang (张博航), a third-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Phd., I finished my undergraduate study at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majored in Computer Science.
 
 My main research area lies in machine learning, with special interests in trustworthy and reliable machine learning. Currently I am focusing on designing neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks. Besides this, I am also interested in designing and analyzing optimization algorithms for efficient neural network training.
 
@@ -40,7 +40,7 @@ Selected Awards
 
 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022.
+* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**).
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 ---
