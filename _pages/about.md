@@ -40,8 +40,8 @@ Selected Awards
 
 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**).
-* Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023.
+* Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---
 <center><sub>Visitor distribution </sub></center>
