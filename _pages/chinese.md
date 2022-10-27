@@ -15,7 +15,7 @@ excerpt: "My homepage in Chinese."
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
-**张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral，接受率1.76$</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
+**张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral，接受率1.76%</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
