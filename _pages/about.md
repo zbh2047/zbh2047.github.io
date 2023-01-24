@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm Bohang Zhang (张博航), a fourth-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Phd., I finished my undergraduate study at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majored in Computer Science.
 
 My main research area lies in solving fundamental problems in machine learning, such as the expressive power, robustness, and optimization of neural networks, **with special interest in studying these problems from a computer science perspective**. Currently, my main research focus lies in the following aspects:
-* Understanding and Analyzing the expressive power of graph neural networks (GNNs), or more broadly, equivaraint neural networks for geometric deep learning.
+* Understanding and Analyzing the expressive power of graph neural networks (GNNs), or more broadly, equivariant neural networks for geometric deep learning.
 * Designing neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks.
 * Previously, I was also interested in designing and analyzing optimization algorithms for efficient neural network training.
 
