@@ -10,7 +10,10 @@ redirect_from:
 
 Hi! I'm Bohang Zhang (张博航), a fourth-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Phd., I finished my undergraduate study at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majored in Computer Science.
 
-My main research area lies in solving fundamental problems in machine learning, such as the expressive power and robustness of neural networks, with special interest in studying these problems from a computer science perspective. Currently I am focusing on designing neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks. Besides this, I am also interested in designing and analyzing optimization algorithms for efficient neural network training.
+My main research area lies in solving fundamental problems in machine learning, such as the expressive power, robustness, and optimization of neural networks, with special interest in studying these problems from a computer science perspective. Currently, my main research focus lies in the following aspects:
+* Understanding and Analyzing the expressive power of graph neural networks (GNNs), or more broadly, equivaraint neural networks for geometric deep learning.
+* Designing neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks.
+* Previously, I was also interested in designing and analyzing optimization algorithms for efficient neural network training.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
@@ -19,8 +22,10 @@ Publications
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
+* [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
+**Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Oral, 1.5% acceptance rate</font>**!). Code will be released.
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
-**Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral, 1.76% acceptance rate</font>**!). \[[Code](https://github.com/zbh2047/SortNet)\]
+**Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral, 1.7% acceptance rate</font>**!). \[[Code](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
@@ -40,7 +45,7 @@ Selected Awards
 
 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023.
+* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023.
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---
