@@ -23,7 +23,7 @@ Publications
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
-**Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Oral, 1.5% acceptance rate</font>**!). Code will be released.
+**Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Oral, 1.7% acceptance rate</font>**!). Code will be released.
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral, 1.7% acceptance rate</font>**!). \[[Code](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
