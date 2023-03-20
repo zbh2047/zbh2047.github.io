@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+📖 Education
 ======
 * B.S. in School of the Gifted Young (Computer Science), Xi'an Jiaotong University, 2013-2019
 * Ph.D. in School of Electronic Engineering and Computer Science, Peking University, 2019-2024 (expected)
@@ -45,7 +45,7 @@ Physics courses:
 * Analog Electronics: 98 / 100
 * Digital Electronics: 98 / 100
 
-Publications
+📝 Publications
 ======
 
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
@@ -61,7 +61,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
 **Bohang Zhang\***, Jikai Jin\*, Cong Fang, Liwei Wang. In [**NeurIPS 2020**](https://nips.cc/Conferences/2020). \[[Code](https://github.com/zbh2047/clipping-algorithms)\]
 
-Awards
+🎖 Awards
 ======
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
@@ -71,14 +71,15 @@ Awards
 * **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017. \[[Certificate](/files/MathModelingCertificate.pdf)\]
 * **Gold Award** (ranking 21/488) in CCF Collegiate Computer System and Programming Contest, 2018.
 
-Skills
+
+💻 Skills
 ======
 * Rich knowledge and experience in data structures and algorithms;
 * Familiar with machine learning theories, algorithms and deep learning;
 * Skilled at Pytorch framework;
 * Skilled at C++, Python and CUDA programming languages.
 
-Professional Services
+🏫 Professional Services
 ======
 * Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023.
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI)

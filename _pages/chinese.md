@@ -13,7 +13,7 @@ excerpt: "My homepage in Chinese."
 * 在之前的研究中，我也对设计和分析高效神经网络训练所需的优化算法感兴趣。
 
 
-已发表论文
+📝 已发表论文
 ======
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
@@ -30,13 +30,29 @@ excerpt: "My homepage in Chinese."
 * [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
 **张博航\***, 金及凯\*, 方聪, 王立威. 发表于 [**NeurIPS 2020**](https://nips.cc/Conferences/2020). \[[代码](https://github.com/zbh2047/clipping-algorithms)\]
 
-部分荣誉
+🎖 部分荣誉
 ======
 
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 * **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
+
+💬 Invited Talks
+======
+
+* Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.
+  * 2023.3.16. 由来自 [以色列理工学院](https://vee.technion.ac.il/) 的 [Haggai Maron ](https://haggaim.github.io/) 教授主持. \[[幻灯片](/files/GNN_Slides.pdf)\]
+* Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective.
+  * 2022.12.15. 由来自 [清华大学](https://www.tsinghua.edu.cn/en/) 的 [李琼秀](https://sites.google.com/view/qiongxiuli/home) 博后主持. \[[宣传海报](/files/Qiongxiu2022.jpg)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.10. 由来自 [中国人民大学](https://www.ruc.edu.cn/en) 的 [刘勇](https://liuyonggsai.github.io/) 教授主持. \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+  * 2022.12.21. 由 [极市平台](https://www.cvmart.net/)) 直播. \[[新闻](https://mp.weixin.qq.com/s/njTtGhXAWmG-QGo-owxseQ)\] \[[宣传海报](/files/CVMart22.png)\] \[[直播视频](https://www.bilibili.com/video/BV1FK411q7RK/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.26. [机器之心](https://www.jiqizhixin.com/) 于 2022年 NeurIPS 中国见面会. \[[新闻](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[宣传海报](/files/NeurIPS2022Meetup.jfif)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+* Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis.
+  * 2022.3.10. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/DRO_Slides.pdf)\]
+* Analyzing and Understanding Gradient Clipping in Non-Convex Optimization.
+  * 2021.3.28. [人工智能前沿学生论坛](https://bbs.sffai.com/). \[[新闻](https://mp.weixin.qq.com/s/wYPkPTu31gKHh3TKenTbfQ)\] \[[宣传海报](/files/SFFAI2021.png)\]  \[[直播视频](https://www.bilibili.com/video/BV1ir4y117Z8/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/Clipping_Slides.pdf)\]
+  * 2021.2.22. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/Clipping_Slides.pdf)\]
 
 ---
 <center><sub>访客分布 </sub></center>
