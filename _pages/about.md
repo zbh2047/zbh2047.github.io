@@ -18,7 +18,7 @@ My main research area lies in solving fundamental problems in machine learning, 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
 
-Publications
+📝 Publications
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
@@ -35,7 +35,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
 **Bohang Zhang\***, Jikai Jin\*, Cong Fang, Liwei Wang. In [**NeurIPS 2020**](https://nips.cc/Conferences/2020). \[[Code](https://github.com/zbh2047/clipping-algorithms)\]
 
-Selected Awards
+🎖 Selected Awards
 ======
 
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
@@ -43,7 +43,23 @@ Selected Awards
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
 
-Professional Services
+💬 Invited Talks
+======
+
+* Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.
+  * 2023.3.16. Hosted by [Prof. Haggai Maron](https://haggaim.github.io/) at [Technion](https://vee.technion.ac.il/). \[[Slides](/files/GNN_Slides.pdf)\]
+* Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective.
+  * 2022.12.15. Hosted by [Qiongxiu Li](https://sites.google.com/view/qiongxiuli/home) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). \[[Poster](/files/Qiongxiu2022.jpg)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.10. Hosted by [Prof. Yong Liu](https://liuyonggsai.github.io/) at [Remin University of China](https://www.ruc.edu.cn/en). \[[Slides](/files/Lipschitz_Slides.pdf)\]
+  * 2022.12.21. Hosted by [CVMart](https://www.cvmart.net/) ([极市平台](https://www.cvmart.net/)). \[[News](https://mp.weixin.qq.com/s/njTtGhXAWmG-QGo-owxseQ)\] \[[Poster](/files/CVMart22.png)\] \[[Video](https://www.bilibili.com/video/BV1FK411q7RK/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.26. Hosted at 2022 NeurIPS Meetup China by [Synced](https://syncedreview.com/) ([机器之心](https://www.jiqizhixin.com/)). \[[News](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[Poster](/files/NeurIPS2022Meetup.jfif)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
+* Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis.
+  * 2022.3.10. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/DRO_Slides.pdf)
+* Analyzing and Understanding Gradient Clipping in Non-Convex Optimization.
+  * 2021.3.28. Hosted by [SFFAI](https://bbs.sffai.com/) (人工智能前沿学生论坛). \[[News](https://mp.weixin.qq.com/s/wYPkPTu31gKHh3TKenTbfQ)\] \[[Poster](/files/SFFAI2021.png)\]  \[[Video](https://www.bilibili.com/video/BV1ir4y117Z8/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1) \[[Slides](/files/Clipping_Slides.pdf)\]
+  * 2021.2.22. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/Clipping_Slides.pdf)\]
+
+🏫 Professional Services
 ======
 * Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023.
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
