@@ -38,7 +38,7 @@ excerpt: "My homepage in Chinese."
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 * **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
 
-💬 Invited Talks
+💬 受邀报告
 ======
 
 * Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.
@@ -46,8 +46,8 @@ excerpt: "My homepage in Chinese."
 * Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective.
   * 2022.12.15. 由来自 [清华大学](https://www.tsinghua.edu.cn/en/) 的 [李琼秀](https://sites.google.com/view/qiongxiuli/home) 博后主持. \[[宣传海报](/files/Qiongxiu2022.jpg)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
   * 2022.11.10. 由来自 [中国人民大学](https://www.ruc.edu.cn/en) 的 [刘勇](https://liuyonggsai.github.io/) 教授主持. \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
-  * 2022.12.21. 由 [极市平台](https://www.cvmart.net/)) 直播. \[[新闻](https://mp.weixin.qq.com/s/njTtGhXAWmG-QGo-owxseQ)\] \[[宣传海报](/files/CVMart22.png)\] \[[直播视频](https://www.bilibili.com/video/BV1FK411q7RK/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
-  * 2022.11.26. [机器之心](https://www.jiqizhixin.com/) 于 2022年 NeurIPS 中国见面会. \[[新闻](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[宣传海报](/files/NeurIPS2022Meetup.jfif)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+  * 2022.12.21. 由 [极市平台](https://www.cvmart.net/) 直播. \[[新闻](https://mp.weixin.qq.com/s/njTtGhXAWmG-QGo-owxseQ)\] \[[宣传海报](/files/CVMart22.png)\] \[[直播视频](https://www.bilibili.com/video/BV1FK411q7RK/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.26. [机器之心](https://www.jiqizhixin.com/) 2022年 NeurIPS 中国见面会. \[[新闻](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[宣传海报](/files/NeurIPS2022Meetup.jfif)\] \[[幻灯片](/files/Lipschitz_Slides.pdf)\]
 * Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis.
   * 2022.3.10. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/DRO_Slides.pdf)\]
 * Analyzing and Understanding Gradient Clipping in Non-Convex Optimization.

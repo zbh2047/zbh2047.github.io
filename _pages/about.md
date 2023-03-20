@@ -52,12 +52,12 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
   * 2022.12.15. Hosted by [Qiongxiu Li](https://sites.google.com/view/qiongxiuli/home) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). \[[Poster](/files/Qiongxiu2022.jpg)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
   * 2022.11.10. Hosted by [Prof. Yong Liu](https://liuyonggsai.github.io/) at [Remin University of China](https://www.ruc.edu.cn/en). \[[Slides](/files/Lipschitz_Slides.pdf)\]
   * 2022.12.21. Hosted by [CVMart](https://www.cvmart.net/) ([极市平台](https://www.cvmart.net/)). \[[News](https://mp.weixin.qq.com/s/njTtGhXAWmG-QGo-owxseQ)\] \[[Poster](/files/CVMart22.png)\] \[[Video](https://www.bilibili.com/video/BV1FK411q7RK/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
-  * 2022.11.26. Hosted at 2022 NeurIPS Meetup China by [Synced](https://syncedreview.com/) ([机器之心](https://www.jiqizhixin.com/)). \[[News](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[Poster](/files/NeurIPS2022Meetup.jfif)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
+  * 2022.11.26. 2022 NeurIPS Meetup China by [Synced](https://syncedreview.com/) ([机器之心](https://www.jiqizhixin.com/)). \[[News](https://mp.weixin.qq.com/s/d47O9EqWFKq5vdnHTi84gA)\] \[[Poster](/files/NeurIPS2022Meetup.jfif)\] \[[Slides](/files/Lipschitz_Slides.pdf)\]
 * Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis.
-  * 2022.3.10. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/DRO_Slides.pdf)\]
+  * 2022.3.10. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/DRO_Slides.pdf)\]
 * Analyzing and Understanding Gradient Clipping in Non-Convex Optimization.
   * 2021.3.28. Hosted by [SFFAI](https://bbs.sffai.com/) (人工智能前沿学生论坛). \[[News](https://mp.weixin.qq.com/s/wYPkPTu31gKHh3TKenTbfQ)\] \[[Poster](/files/SFFAI2021.png)\]  \[[Video](https://www.bilibili.com/video/BV1ir4y117Z8/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/Clipping_Slides.pdf)\]
-  * 2021.2.22. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/Clipping_Slides.pdf)\]
+  * 2021.2.22. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/Clipping_Slides.pdf)\]
 
 🏫 Professional Services
 ======
