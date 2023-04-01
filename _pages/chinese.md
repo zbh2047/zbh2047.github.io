@@ -18,7 +18,7 @@ excerpt: "My homepage in Chinese."
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
-**张博航\***, 罗胜杰\*, 王立威, 贺笛. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Oral, 接受率仅1.8%</font>**!). 代码即将发布.
+**张博航\***, 罗胜杰\*, 王立威, 贺笛. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>荣获杰出论文奖, 获奖率仅4/4966</font>**!). \[[代码](https://github.com/lsj2408/Graphormer-GD)\]
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral，接受率仅1.7%</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
@@ -32,7 +32,7 @@ excerpt: "My homepage in Chinese."
 
 🎖 部分荣誉
 ======
-
+* 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
@@ -40,7 +40,8 @@ excerpt: "My homepage in Chinese."
 
 💬 受邀报告
 ======
-
+* Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
+  * 2023.3.31. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 和 [将门创投技术社区](https://www.techbeat.net/) 联合举办. \[[新闻](https://mp.weixin.qq.com/s/3BRwICsdcp_8PI1wAADUJQ)\] \[[宣传海报](/files/Jiangmen.png)\] \[[幻灯片](/files/GNN_Slides_ICLR.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1WN411N7JY/?spm_id_from=pageDriver&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.
   * 2023.3.16. 由来自 [以色列理工学院](https://vee.technion.ac.il/) 的 [Haggai Maron ](https://haggaim.github.io/) 教授主持. \[[幻灯片](/files/GNN_Slides.pdf)\]
 * Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective.

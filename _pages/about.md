@@ -23,7 +23,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
-**Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Oral, 1.8% acceptance rate</font>**!). Code will be released.
+**Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Outstanding paper award, top 4/4966</font>**!). \[[Code](https://github.com/lsj2408/Graphormer-GD)\]
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral, 1.7% acceptance rate</font>**!). \[[Code](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
@@ -38,6 +38,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 🎖 Selected Awards
 ======
 
+* ICLR 2023 **<font color=red>Outstanding paper award</font>** (top 4/4966). \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
@@ -45,7 +46,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 💬 Invited Talks
 ======
-
+* Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
+  * 2023.3.31. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html) and [Jiangmen TechBeat](https://www.techbeat.net/). \[[News](https://mp.weixin.qq.com/s/3BRwICsdcp_8PI1wAADUJQ)\] \[[Poster](/files/Jiangmen.png)\] \[[Slides](/files/GNN_Slides_ICLR.pdf)\] \[[Video](https://www.bilibili.com/video/BV1WN411N7JY/?spm_id_from=pageDriver&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.
   * 2023.3.16. Hosted by [Prof. Haggai Maron](https://haggaim.github.io/) at [Technion](https://vee.technion.ac.il/). \[[Slides](/files/GNN_Slides.pdf)\]
 * Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective.
@@ -61,7 +63,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 🏫 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023.
+* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023, NeurIPS 2023.
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---
