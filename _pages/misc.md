@@ -13,16 +13,16 @@ Personal Interest
 * During my undergraduate, I wrote some interesting projects including a game and a compression software. I just put it below to commemorate my college time.
 * [Here](https://www.cnblogs.com/zbh2047/) is my previous personal blog, containing some of my training and experience in the ACM ICPC programming competition.
 
-Some Undergraduate Projects
+Some High-school and Undergraduate Projects
 ======
 
-- Electricity and Magnetismm: a computer game made in 2014. [Download here](/files/Electricity and magnetismm.7z)\\
-  It is a interesting puzzle game programmed in C++ language on Windows platform. It contains dozens of levels with incresing difficulties (many of them created by myself), and a custom map editor to create new levels.
-- ZCF: A new compression software made in 2014. [Download here](/files/release.zip)\\
-  I designed my own compression algorithm based on [suffix automaton](https://en.wikipedia.org/wiki/Suffix_automaton), dynamic programming, and [huffman tree](https://en.wikipedia.org/wiki/Huffman_coding). This creates a compression softmax with very high compression rate (better than [zip](https://en.wikipedia.org/wiki/ZIP_(file_format)) format and approaching [rar](https://en.wikipedia.org/wiki/RAR_(file_format)) format), while being efficient for both compression and decompression. I really enjoy this project since it combines a lot of algorithms learned in the ACM ICPC competition.
-- New Tetris: a computer game made in 2013. [Download here](/files/new tetris.zip)\\
-  It is a game programmed in C language on Windows platform. This is the first game I have written myself when I learned the C language.
-- Gomoku. [Download here](/files/Gomoku.zip)\\
+- **Electricity and Magnetismm**: a computer game made in 2014. [\[Download here\]](/files/Electricity and magnetismm.7z)\\
+  It is an interesting puzzle game programmed in C++ language on Windows platform. It contains dozens of levels with increasing difficulties (many of them created by myself), and a custom map editor to create new levels.
+- **ZCF**: A new compression software made in 2016. [\[Download here\]](/files/ZCF.zip)\\
+  I designed my own compression algorithm based on [suffix automaton](https://en.wikipedia.org/wiki/Suffix_automaton), dynamic programming, and [huffman tree](https://en.wikipedia.org/wiki/Huffman_coding). This creates a compression software with very high compression rate (better than [zip](https://en.wikipedia.org/wiki/ZIP_(file_format)) format and approaching [rar](https://en.wikipedia.org/wiki/RAR_(file_format)) format), while being efficient for both compression and decompression. I really enjoy this project since it combines a lot of algorithms learned in the ACM ICPC competition.
+- **New Tetris**: a computer game made in 2013. [\[Download here\]](/files/new tetris.zip)\\
+  It is a game programmed in C language on Windows platform. This is the first game I have written myself when I studied the C language.
+- **Gomoku**: made in 2016. [Download here](/files/Gomoku.zip)\\
   Programmed in C# language on Windows platform.
 
 ---
