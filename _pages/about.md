@@ -22,6 +22,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
+* [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
+**Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023). \[[Code](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Outstanding paper award, top 4/4966</font>**!). \[[Code](https://github.com/lsj2408/Graphormer-GD)\]
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
