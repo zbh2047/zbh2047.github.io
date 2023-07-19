@@ -23,7 +23,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
-**Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023) (Review score: 3 clear acceptances). \[[Code](https://github.com/subgraph23/SWL)\]
+**Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023) (All ratings are clear acceptance). \[[Code](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>Outstanding paper award, top 4/4966</font>**!). \[[Code](https://github.com/lsj2408/Graphormer-GD)\]
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
@@ -51,11 +51,11 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
-  * 2023.3.31. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[Slides](/files/Subgraph_GNN_Slides.pdf)\] \[[Video](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
+  * 2023.6.23. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[Slides](/files/Subgraph_GNN_Slides.pdf)\] \[[Video](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
   * 2023.3.31. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html) and [Jiangmen TechBeat](https://www.techbeat.net/). \[[News](https://mp.weixin.qq.com/s/3BRwICsdcp_8PI1wAADUJQ)\] \[[Poster](/files/Jiangmen.png)\] \[[Slides](/files/GNN_Slides_ICLR.pdf)\] \[[Video](https://www.bilibili.com/video/BV1WN411N7JY/?spm_id_from=pageDriver&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
   * 2023.4.9. Hosted by [Learning on Graph Seminar](https://mp.weixin.qq.com/s/Q8Z1iQOJUyC6Tfxq2WIuLg). \[[News](https://mp.weixin.qq.com/s/Q8Z1iQOJUyC6Tfxq2WIuLg)\] \[[Slides](/files/GNN_Slides_ICLR.pdf)\] \[[Video](https://www.bilibili.com/video/BV1X24y1w7zw/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
-  * 2023.5.26. Hosted by [CMLR](https://cmlr.pku.edu.cn/) at [Peking University](https://cmlr.pku.edu.cn/). \[[Poster](/files/CMLR.jpg)\] [[Slides](/files/GNN_Slides_ICLR.pdf)\] 
+  * 2023.5.26. Hosted by [CMLR](https://cmlr.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). \[[Poster](/files/CMLR.jpg)\] [[Slides](/files/GNN_Slides_ICLR.pdf)\] 
   * 2023.6.7. Hosted by [WestLake University](https://en.westlake.edu.cn/). \[[Poster](/files/WestLake.jpg)\] \[[Slides](/files/GNN_Slides_ICLR.pdf)\] 
   * 2023.6.12. Hosted by [VALSE](http://valser.org/). \[[Agenda](http://valser.org/2023/#/program)\] \[[Slides](/files/GNN_VALSE_Slides.pdf)\] 
 * Understanding and Improving Expressive Power of GNNs: Distance, Biconnectivity, and WL Tests.

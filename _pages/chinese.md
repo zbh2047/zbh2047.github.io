@@ -26,7 +26,7 @@ excerpt: "My homepage in Chinese."
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
-**张博航**, 蔡天乐, 陆洲, 贺笛, 王立威. 发表于 [**ICML 2021**](https://icml.cc/Conferences/2021)  (**<font color=red>Spotlight</font>**). \[[代码](https://github.com/zbh2047/L_inf-dist-net)\]
+**张博航**, 蔡天乐, 陆洲, 贺笛, 王立威. 发表于 [**ICML 2021**](https://icml.cc/Conferences/2021)  (**Spotlight**). \[[代码](https://github.com/zbh2047/L_inf-dist-net)\]
 * [Non-convex Distributionally Robust Optimization: Non-asymptotic Analysis](https://arxiv.org/abs/2110.12459).\\
 金及凯\*, **张博航\***, 汪海洋, 王立威. 发表于 [**NeurIPS 2021**](https://nips.cc/Conferences/2021).
 * [Improved Analysis of Clipping Algorithms for Non-convex Optimization](https://arxiv.org/abs/2010.02519).\\
@@ -45,7 +45,7 @@ excerpt: "My homepage in Chinese."
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/CoT_Slides.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
-  * 2023.3.31. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[幻灯片](/files/Subgraph_GNN_Slides.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
+  * 2023.6.23. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[幻灯片](/files/Subgraph_GNN_Slides.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
   * 2023.3.31. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 和 [将门创投技术社区](https://www.techbeat.net/) 联合举办. \[[新闻](https://mp.weixin.qq.com/s/3BRwICsdcp_8PI1wAADUJQ)\] \[[宣传海报](/files/Jiangmen.png)\] \[[幻灯片](/files/GNN_Slides_ICLR.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1WN411N7JY/?spm_id_from=pageDriver&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
   * 2023.4.9. 由 [图学习研讨会](https://mp.weixin.qq.com/s/Q8Z1iQOJUyC6Tfxq2WIuLg). \[[新闻](https://mp.weixin.qq.com/s/Q8Z1iQOJUyC6Tfxq2WIuLg)\] \[[幻灯片](/files/GNN_Slides_ICLR.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1X24y1w7zw/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
