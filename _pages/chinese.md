@@ -18,7 +18,7 @@ excerpt: "My homepage in Chinese."
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
-冯古豪\*, **张博航\***, 古云天, 叶皓天, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[代码](https://github.com/guyuntian/CoT_benchmark)\]
+冯古豪\*, **张博航\***, 古云天, 叶皓天, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
 **张博航**, 冯古豪\*, 杜逸恒\*, 贺笛, 王立威. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023). \[[代码](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
@@ -39,11 +39,12 @@ excerpt: "My homepage in Chinese."
 🎖 部分荣誉
 ======
 * 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
-* **字节奖学金**, 2023. \[[证书](/files/bytedance_scholarship.jpg)\]
+* **<font color=red>字节奖学金</font>**, 2023. \[[证书](/files/bytedance_scholarship.jpg)\]
+* **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生.
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
-* **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生。
+* **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生.
 
 💬 受邀报告
 ======

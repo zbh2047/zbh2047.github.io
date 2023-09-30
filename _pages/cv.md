@@ -49,7 +49,7 @@ Physics courses:
 ======
 
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
-Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu, Haotian Ye, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[Code](https://github.com/guyuntian/CoT_benchmark)\]
+Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu, Haotian Ye, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[Code](https://github.com/guyuntian/CoT\_benchmark)\]
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
 **Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023). \[[Code](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
@@ -70,7 +70,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 🎖 Awards
 ======
 * ICLR 2023 **<font color=red>Outstanding paper award</font>** (top 4/4966). \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
-* **Bytedance Scholarship**, 2023. \[[Certificate](/files/bytedance_scholarship.jpg)\]
+* **<font color=red>Bytedance Scholarship</font>**, 2023. \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Pricipal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in School of Artificial Intelligence, Peking University.
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
