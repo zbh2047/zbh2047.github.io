@@ -24,7 +24,7 @@ excerpt: "My homepage in Chinese."
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **张博航\***, 罗胜杰\*, 王立威, 贺笛. 发表于 [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>荣获杰出论文奖, 获奖率仅4/4966</font>**!). \[[代码](https://github.com/lsj2408/Graphormer-GD)\]
 * [Finding Generalization Measures by Contrasting Signal and Noise](https://proceedings.mlr.press/v202/teng23a/teng23a.pdf).\\
-滕佳烨\*, **张博航\***, 李瑞晨\*, 何昊伟\*, 王业全, 田燕, 袁洋.
+滕佳烨\*, **张博航\***, 李瑞晨\*, 何昊伟\*, 王业全, 田燕, 袁洋. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023).
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral Presentation，接受率仅1.7%</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
