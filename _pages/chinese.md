@@ -17,12 +17,16 @@ excerpt: "My homepage in Chinese."
 ======
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
+* [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
+冯古豪\*, **张博航\***, 古云天, 叶皓天, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[代码](https://github.com/guyuntian/CoT_benchmark)\]
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
 **张博航**, 冯古豪\*, 杜逸恒\*, 贺笛, 王立威. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023). \[[代码](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **张博航\***, 罗胜杰\*, 王立威, 贺笛. 发表于 [**ICLR 2023**](https://iclr.cc//Conferences/2023) (**<font color=red>荣获杰出论文奖, 获奖率仅4/4966</font>**!). \[[代码](https://github.com/lsj2408/Graphormer-GD)\]
+* [Finding Generalization Measures by Contrasting Signal and Noise](https://proceedings.mlr.press/v202/teng23a/teng23a.pdf).\\
+滕佳烨\*, **张博航\***, 李瑞晨\*, 何昊伟\*, 王业全, 田燕, 袁洋.
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
-**张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral，接受率仅1.7%</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
+**张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022) (**<font color=red>Oral Presentation，接受率仅1.7%</font>**!). \[[代码](https://github.com/zbh2047/SortNet)\]
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
@@ -35,6 +39,7 @@ excerpt: "My homepage in Chinese."
 🎖 部分荣誉
 ======
 * 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
+* **字节奖学金**, 2023. \[[证书](/files/bytedance_scholarship.jpg)\]
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
