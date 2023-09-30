@@ -18,7 +18,7 @@ excerpt: "My homepage in Chinese."
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
-冯古豪\*, **张博航\***, 古云天, 叶皓天, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation**!). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]
+冯古豪\*, **张博航\***, 古云天\*, 叶皓天\*, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023) (**<font color=red>Oral Presentation</font>**!). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
 **张博航**, 冯古豪\*, 杜逸恒\*, 贺笛, 王立威. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023). \[[代码](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
