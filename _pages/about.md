@@ -26,7 +26,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu\*, Haotian Ye\*, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[Code](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation, 0.6% acceptance rate</font>**!)
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
-**Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023) (All ratings are clear acceptance). \[[Code](https://github.com/subgraph23/SWL)\]
+**Bohang Zhang**, Guhao Feng\*, Yiheng Du\*, Di He, Liwei Wang. In [**ICML 2023**](https://icml.cc//Conferences/2023). \[[Code](https://github.com/subgraph23/SWL)\]\\
+(All ratings are clear acceptance)
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **Bohang Zhang\***, Shengjie Luo\*, Liwei Wang, Di He. In [**ICLR 2023**](https://iclr.cc//Conferences/2023). \[[Code](https://github.com/lsj2408/Graphormer-GD)\]\\
 (**<font color=red>Outstanding Paper Award, top 4/4966</font>**!)
@@ -49,7 +50,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 * ICLR 2023 **<font color=red>Outstanding paper award</font>** (top 4/4966). \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
 * **<font color=red>Bytedance Scholarship</font>**, 2023. \[[Certificate](/files/bytedance_scholarship.jpg)\]
-* **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in School of Artificial Intelligence, Peking University.
+* **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University.
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
