@@ -7,9 +7,11 @@ excerpt: "My homepage in Chinese."
 
 我叫张博航，目前是北京大学博士四年级学生，导师是 [王立威](http://www.liweiwang-pku.com/) 教授。我也与 [贺笛](dihe-pku.github.io/) 教授紧密合作。在此之前，我就读于西安交通大学少年班，专业为计算机科学。
 
-我的主要研究方向是解决机器学习中重要的基础性问题，如神经网络的表达能力、鲁棒性、和优化算法等，尤其对于从计算机科学的角度出发来研究这些问题感兴趣。当前我的研究兴趣包含以下几个方面：
-* 理解和分析图神经网络的表达能力，以及更广义地，几何深度学习中等变网络的表达能力。
-* 设计具有可验证鲁棒性的神经网络，即在面对对抗攻击下具有可证明的鲁棒性。
+我的主要研究方向是机器学习中重要的基础性问题。从计算机科学的角度出发，我的工作提供了对现有深度学习模型和算法的优缺点的深入洞察，并以此来设计新的（有理论保证的更优）模型/算法。当前我的研究兴趣包含以下几个方面：
+
+* 理解大型语言模型（LLM）在复杂推理中的能力和局限性
+* 分析图神经网络的表达能力，指导应如何设计图神经网络架构使其能够有效表示所需的图结构信息。
+* 设计具有可验证鲁棒性的Lipschitz神经网络，即在面对对抗攻击下具有可证明的鲁棒性。
 * 在之前的研究中，我也对设计和分析高效神经网络训练所需的优化算法感兴趣。
 
 
@@ -19,17 +21,17 @@ excerpt: "My homepage in Chinese."
 
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 冯古豪\*, **张博航\***, 古云天\*, 叶皓天\*, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]\\
-(**<font color=red>Oral Presentation，接受率仅0.6%</font>**!)
+(**<font color=red>Oral Presentation，接受率仅0.6%</font>**)
 * [A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090).\\
 **张博航**, 冯古豪\*, 杜逸恒\*, 贺笛, 王立威. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023). \[[代码](https://github.com/subgraph23/SWL)\]
 * [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505).\\
 **张博航\***, 罗胜杰\*, 王立威, 贺笛. 发表于 [**ICLR 2023**](https://iclr.cc//Conferences/2023). \[[代码](https://github.com/lsj2408/Graphormer-GD)\]\\
-(**<font color=red>荣获杰出论文奖, 获奖率仅4/4966</font>**!)
+(**<font color=red>荣获杰出论文奖, 获奖率仅4/4966</font>**)
 * [Finding Generalization Measures by Contrasting Signal and Noise](https://proceedings.mlr.press/v202/teng23a/teng23a.pdf).\\
 滕佳烨\*, **张博航\***, 李瑞晨\*, 何昊伟\*, 王业全, 田燕, 袁洋. 发表于 [**ICML 2023**](https://icml.cc//Conferences/2023).
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**NeurIPS 2022**](https://nips.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/SortNet)\]\\
-(**<font color=red>Oral Presentation，接受率仅1.7%</font>**!)
+(**<font color=red>Oral Presentation，接受率仅1.7%</font>**)
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **张博航**, 姜度, 贺笛, 王立威. 发表于 [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[代码](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
