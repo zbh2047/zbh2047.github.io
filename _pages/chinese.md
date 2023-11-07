@@ -44,7 +44,7 @@ excerpt: "My homepage in Chinese."
 🎖 部分荣誉
 ======
 * 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
-* **<font color=red>字节奖学金</font>**, 2023. \[[证书](/files/bytedance_scholarship.jpg)\]
+* **<font color=red>字节奖学金</font>**, 2023.  \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
 * **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生.
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
