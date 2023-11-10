@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Bohang Zhang (张博航), a final-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Ph.D., I completed my undergraduate studies at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majoring in Computer Science.
 
-My main research area lies in studying the foundations of machine learning. My work provides insights into the strengths and weaknesses of existing deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. Here are several research areas I am interested in:
+My main research area lies in studying the foundations of machine learning. My work provides insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. Here are several research areas I am interested in:
 * Understanding the power and limitations of large language models (LLMs) in complex reasoning.
 * Analyzing the expressive power of graph neural networks (GNNs), providing guaidance on the GNNs design principles that enable them to effectively represent the necessary graph structural information.
 * Designing powerful Lipschitz neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks.
@@ -61,6 +61,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 ======
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
+  * (Sededuled) 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). 
+  * (Sededuled) 2023.11.20. Hosted by [FLaNN seminars](https://flann.super.site/). 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
   * 2023.6.23. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[Slides](/files/Subgraph_GNN_Slides.pdf)\] \[[Video](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
