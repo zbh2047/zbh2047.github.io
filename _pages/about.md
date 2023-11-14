@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Bohang Zhang (张博航), a final-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Ph.D., I completed my undergraduate studies at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majoring in Computer Science.
 
-My main research area lies in studying the foundations of machine learning. My work provides insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. Here are several research areas I am interested in:
+My main research area lies in studying the foundations of machine learning, especially **the expressive power of neural networks**. My work provides insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. Here are several research areas I am interested in:
 * Understanding the power and limitations of large language models (LLMs) in complex reasoning.
 * Analyzing the expressive power of graph neural networks (GNNs), providing guaidance on the GNNs design principles that enable them to effectively represent the necessary graph structural information.
 * Designing powerful Lipschitz neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks.
