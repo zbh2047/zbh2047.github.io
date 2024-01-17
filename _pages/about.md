@@ -23,6 +23,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
+* [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
+**Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
+(**<font color=red>Oral Presentation, 1.2% acceptance rate</font>**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu\*, Haotian Ye\*, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[Code](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation, 0.6% acceptance rate</font>**)
@@ -86,7 +89,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 🏫 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023, VFVML 2023, NeurIPS 2023, ICLR 2024.
+* Workshop Organizer for ICLR 2024.
+* Reviewer for ICML 2022, NeurIPS 2022 (**<font color=red>top reviewer</font>**), ICLR 2023, CVPR 2023, ICML 2023, VFVML 2023, NeurIPS 2023 (**<font color=red>top reviewer</font>**), ICLR 2024, ICML 2024.
 * Reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---

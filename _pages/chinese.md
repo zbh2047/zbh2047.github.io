@@ -19,6 +19,9 @@ excerpt: "My homepage in Chinese."
 ======
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
+* [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
+**张博航\***, 盖景初\*, 杜逸恒, 叶启威, 贺笛, 王立威. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
+(**<font color=red>Oral Presentation, 接受率仅1.2%</font>**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 冯古豪\*, **张博航\***, 古云天\*, 叶皓天\*, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation，接受率仅0.6%</font>**)
