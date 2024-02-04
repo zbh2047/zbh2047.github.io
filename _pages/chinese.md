@@ -58,7 +58,7 @@ excerpt: "My homepage in Chinese."
 ======
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/CoT_Slides.pdf)\] 
-  * 2023.11.17. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/e4-OUD3Cu3fzOeTxx6McgQ)\] \[[直播视频]( https://www.bilibili.com/video/BV1c34y1w7ZW/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/CoT_Slides.pdf)\] 
+  * 2023.11.17. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/e4-OUD3Cu3fzOeTxx6McgQ)\] \[[直播视频]( https://www.bilibili.com/video/BV1c34y1w7ZW/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/CoT_Slides.pdf)\] 
   * 2023.11.20. 由 [FLaNN 研讨班](https://flann.super.site/) 举办. \[[Slides](/files/CoT_Slides.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
   * 2023.6.23. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[幻灯片](/files/Subgraph_GNN_Slides.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
