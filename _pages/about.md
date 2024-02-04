@@ -64,8 +64,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 ======
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
-  * (Sededuled) 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). 
-  * (Sededuled) 2023.11.20. Hosted by [FLaNN seminars](https://flann.super.site/). 
+  * 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[Slides](/files/CoT_Slides.pdf)\] 
+  * 2023.11.20. Hosted by [FLaNN seminars](https://flann.super.site/). \[[News](https://mp.weixin.qq.com/s/e4-OUD3Cu3fzOeTxx6McgQ)\] \[[Video]( https://www.bilibili.com/video/BV1c34y1w7ZW/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/CoT_Slides.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
   * 2023.6.23. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[Slides](/files/Subgraph_GNN_Slides.pdf)\] \[[Video](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
