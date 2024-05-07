@@ -25,7 +25,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
-(**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate**)
+(**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate</font>**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu\*, Haotian Ye\*, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[Code](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation, 0.6% acceptance rate</font>**)
