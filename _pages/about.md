@@ -25,7 +25,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
-(**<font color=red>Oral Presentation, 1.2% acceptance rate</font>**)
+(**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu\*, Haotian Ye\*, Di He, Liwei Wang. In [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[Code](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation, 0.6% acceptance rate</font>**)
@@ -53,6 +53,8 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 ======
 
 * ICLR 2023 **<font color=red>Outstanding paper award</font>** (top 4/4966). \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
+* ICLR 2024 **<font color=red>Outstanding paper award honorable mention</font>** (top 17/7262). 
+\[[Link](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] 
 * **<font color=red>Bytedance Scholarship</font>**, 2023. \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University.
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]

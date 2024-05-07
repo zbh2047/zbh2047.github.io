@@ -21,7 +21,7 @@ excerpt: "My homepage in Chinese."
 
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **张博航\***, 盖景初\*, 杜逸恒, 叶启威, 贺笛, 王立威. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
-(**<font color=red>Oral Presentation, 接受率仅1.2%</font>**)
+(**<font color=red>荣获杰出论文奖提名, 获奖率仅0.23%</font>**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 冯古豪\*, **张博航\***, 古云天\*, 叶皓天\*, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]\\
 (**<font color=red>Oral Presentation，接受率仅0.6%</font>**)
@@ -46,7 +46,9 @@ excerpt: "My homepage in Chinese."
 
 🎖 部分荣誉
 ======
-* 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
+* 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率 4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] 
+* 机器学习国际顶会 ICLR 2024 **<font color=red>杰出论文奖提名</font>** (获奖率 17/7262). 
+\[[链接](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] 
 * **<font color=red>字节奖学金</font>**, 2023.  \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
 * **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生.
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
