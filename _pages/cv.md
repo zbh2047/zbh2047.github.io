@@ -49,7 +49,7 @@ Physics courses:
 ======
 
 * [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
-**Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]\\
+**Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]
 * [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
 Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\

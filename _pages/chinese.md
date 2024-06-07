@@ -20,7 +20,7 @@ excerpt: "My homepage in Chinese."
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
 * [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
-**张博航**, 赵凌霄, Haggai Maron. 发表于 [**ICML 2024**](https://icml.cc//Conferences/2024). \[[代码](https://github.com/LingxiaoShawn/EPNN-Experiments)\]\\
+**张博航**, 赵凌霄, Haggai Maron. 发表于 [**ICML 2024**](https://icml.cc//Conferences/2024). \[[代码](https://github.com/LingxiaoShawn/EPNN-Experiments)\]
 * [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
 杨铠, Jan Ackermann, 何震宇, 冯古豪, **张博航**, 冯韫禛, 叶启威, 贺笛, 王立威. 发表于 [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
