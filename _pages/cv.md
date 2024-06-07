@@ -48,6 +48,10 @@ Physics courses:
 📝 Publications
 ======
 
+* [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
+**Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]\\
+* [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
 (**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate</font>**)
@@ -85,6 +89,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 20), Shanghai China, 2017. \[[Certificate](/files/ECFinalShanghaiCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
+* Beijing outstanding PhD graduates, 2024.
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
 * **First Prize at national level** (top 0.6%) in China Undergraduate Mathematical Modeling Contest, 2017. \[[Certificate](/files/MathModelingCertificate.pdf)\]
 * **Gold Award** (ranking 21/488) in CCF Collegiate Computer System and Programming Contest, 2018. \[[Certificate](https://cspro.org/cms/show.action?code=publish_8ac21fad707fc04d01708c212a280097&siteid=100000&newsid=9698e3cf70db46dc915e05e839da30e9&channelid=0000000113#ccsp2018)

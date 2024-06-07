@@ -19,8 +19,12 @@ excerpt: "My homepage in Chinese."
 ======
 <sub>\* 表示共同第一作者。详情见[论文列表](/publications/)。</sub>
 
+* [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
+**张博航**, 赵凌霄, Haggai Maron. 发表于 [**ICML 2024**](https://icml.cc//Conferences/2024). \[[代码](https://github.com/LingxiaoShawn/EPNN-Experiments)\]\\
+* [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
+杨铠, Jan Ackermann, 何震宇, 冯古豪, **张博航**, 冯韫禛, 叶启威, 贺笛, 王立威. 发表于 [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
-**张博航\***, 盖景初\*, 杜逸恒, 叶启威, 贺笛, 王立威. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
+**张博航\***, 盖景初\*, 杜逸恒, 叶启威, 贺笛, 王立威. 发表于 [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[代码](https://github.com/subgraph23/homomorphism-expressivity)\]\\
 (**<font color=red>荣获杰出论文奖提名, 获奖率仅0.23%</font>**)
 * [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/abs/2305.15408).\\
 冯古豪\*, **张博航\***, 古云天\*, 叶皓天\*, 贺笛, 王立威. 发表于 [**NeurIPS 2023**](https://nips.cc//Conferences/2023). \[[代码](https://github.com/guyuntian/CoT\_benchmark)\]\\
@@ -52,6 +56,7 @@ excerpt: "My homepage in Chinese."
 * **<font color=red>字节奖学金</font>**, 2023.  \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
 * **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生.
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
+* 北京市优秀博士毕业生, 2024.
 * ACM ICPC 东亚大陆决赛 **金牌** (排名 8/382), 中国西安, 2018. \[[证书](/files/ECFinalCertificateTeam.pdf)\]\[[证书](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **季军** (金牌, 排名 4/298), 中国焦作, 2018. \[[证书](/files/JiaozuoCertificate.pdf)\]
 * **全校十大学生标兵** (排名 2/10), 2019. 每年授予西安交通大学全校共十名本科学生.
@@ -61,7 +66,8 @@ excerpt: "My homepage in Chinese."
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/CoT_Slides.pdf)\] 
   * 2023.11.17. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/e4-OUD3Cu3fzOeTxx6McgQ)\] \[[直播视频]( https://www.bilibili.com/video/BV1c34y1w7ZW/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[幻灯片](/files/CoT_Slides.pdf)\] 
-  * 2023.11.20. 由 [FLaNN 研讨班](https://flann.super.site/) 举办. \[[Slides](/files/CoT_Slides.pdf)\] 
+  * 2023.11.20. 由 [FLaNN 研讨班](https://flann.super.site/) 举办. \[[幻灯片](/files/CoT_Slides.pdf)\] 
+  * 2024.6.2. 由 CCF 理论计算机科学专业委员会优秀博士生论坛 举办. \[[宣传海报](/files/CoT_CCF_talk.jpg)\] \[[幻灯片](/files/CoT_Slides_with_ICML.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
   * 2023.6.23. 由 [人工智能基础研讨班](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[幻灯片](/files/Subgraph_GNN_Slides.pdf)\] \[[直播视频](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.

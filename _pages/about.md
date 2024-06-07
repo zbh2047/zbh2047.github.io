@@ -23,6 +23,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
+* [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
+**Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]\\
+* [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
 (**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate</font>**)
@@ -58,6 +62,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * **<font color=red>Bytedance Scholarship</font>**, 2023. \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University.
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
+* Beijing outstanding PhD graduates, 2024.
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
 * **Top-10 outstanding student pioneers** (ranking 2/10), 2019. Awarded annually to a total of 10 undergraduate students across Xi'an Jiaotong University.
@@ -68,6 +73,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
   * 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[Slides](/files/CoT_Slides.pdf)\] 
   * 2023.11.20. Hosted by [FLaNN seminars](https://flann.super.site/). \[[News](https://mp.weixin.qq.com/s/e4-OUD3Cu3fzOeTxx6McgQ)\] \[[Video]( https://www.bilibili.com/video/BV1c34y1w7ZW/?spm_id_from=333.337.search-card.all.click&vd_source=179a815a9dd528a94cf613842a0ec9f1)\] \[[Slides](/files/CoT_Slides.pdf)\] 
+  * 2024.6.2. Hosted by CCF Theoretical Computer Science Committee Outstanding Doctoral Student Forum. \[[Poster](/files/CoT_CCF_talk.jpg)\] \[[Slides](/files/CoT_Slides_with_ICML.pdf)\] 
 * Understanding and Improving the Expressivity of Subgraph GNNs.
   * 2023.6.23. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/YWJjbyzDPtKdFEDDyPE_NA)\] \[[Slides](/files/Subgraph_GNN_Slides.pdf)\] \[[Video](https://www.bilibili.com/video/BV1gk4y1u722/?spm_id_from=333.999.0.0&vd_source=179a815a9dd528a94cf613842a0ec9f1)\]
 * Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
