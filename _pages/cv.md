@@ -67,7 +67,7 @@ Guhao Feng\*, **Bohang Zhang\***, Yuntian Gu\*, Haotian Ye\*, Di He, Liwei Wang.
 Jiaye Teng\*, **Bohang Zhang\***, Ruichen Li\*, Haowei He\*, Yequan Wang, Yan Tian, Yang Yuan. In [**ICML 2023**](https://icml.cc//Conferences/2023).
 * [Rethinking Lipschitz Neural Networks and Certified Robustness: A Boolean Function Perspective](https://arxiv.org/abs/2210.01787).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**NeurIPS 2022**](https://nips.cc/Conferences/2022). \[[Code](https://github.com/zbh2047/SortNet)\]\\
-(**<font color=red>Oral, 1.7% acceptance rate</font>**)
+(**<font color=red>Oral Presentation, 1.7% acceptance rate</font>**)
 * [Boosting the Certified Robustness of L-infinity Distance Nets](https://arxiv.org/abs/2110.06850).\\
 **Bohang Zhang**, Du Jiang, Di He, Liwei Wang. In [**ICLR 2022**](https://iclr.cc/Conferences/2022). \[[Code](https://github.com/zbh2047/L_inf-dist-net-v2)\]
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](https://arxiv.org/abs/2102.05363).\\
