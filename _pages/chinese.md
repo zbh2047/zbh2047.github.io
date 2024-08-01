@@ -56,7 +56,7 @@ excerpt: "My homepage in Chinese."
 * 机器学习国际顶会 ICLR 2024 **<font color=red>杰出论文奖荣誉提名</font>** (获奖率 17/7262). 
 \[[链接](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] \[[证书](/files/ICLR2024_Outstanding_Paper_Award_Honorable_Mention.pdf)\]
 * **<font color=red>优秀博士学位论文</font>**, 2024. 每年授予北京大学全校约3%的博士毕业生. 
-* **<font color=red>字节跳动奖学金</font>**, 2023.  \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
+* **<font color=red>字节跳动奖学金</font>**, 2023. 每年授予中国约10名学生. \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
 * **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生. \[[证书](/files/PrincipalScholarship1.pdf)\] \[[证书](/files/PrincipalScholarship2.pdf)\] \[[证书](/files/PrincipalScholarship3.pdf)\] \[[证书](/files/PrincipalScholarship4.pdf)\] \[[证书](/files/PrincipalScholarship5.pdf)\] 
 * ACM ICPC **<font color=red>世界总决赛选手</font>** (排名 41/135), 葡萄牙波尔图, 2019. \[[证书](/files/WorldFinalCertificate.pdf)\]\[[证书](/files/WorldFinalCertificateIndividual.pdf)\]
 * 北京市优秀博士毕业生, 2024.

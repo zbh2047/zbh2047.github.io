@@ -79,12 +79,12 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 🎖 Awards
 ======
-* ICLR 2023 **<font color=red>Outstanding paper award</font>** (top 4/4966). 
+* ICLR 2023 **<font color=red>Outstanding Paper Award</font>** (top 4/4966). 
 \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] \[[Certificate](/files/ICLR2023_Outstanding Paper Award.pdf)\] 
-* ICLR 2024 **<font color=red>Outstanding paper award honorable mention</font>** (top 17/7262). 
+* ICLR 2024 **<font color=red>Outstanding Paper Award Honorable Mention</font>** (top 17/7262). 
 \[[Link](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] \[[Certificate](/files/ICLR2024_Outstanding_Paper_Award_Honorable_Mention.pdf)\]
 * **<font color=red>Outstanding Doctoral Dissertation</font>**. Awarded annually to about 3% Ph.D. graduates in Peking University.
-* **<font color=red>Bytedance Scholarship</font>**, 2023.  \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
+* **<font color=red>Bytedance Scholarship</font>**, 2023. Awarded annually to about 10 students in China.  \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University. \[[Certificate](/files/PrincipalScholarship1.pdf)\] \[[Certificate](/files/PrincipalScholarship2.pdf)\] \[[Certificate](/files/PrincipalScholarship3.pdf)\] \[[Certificate](/files/PrincipalScholarship4.pdf)\] \[[Certificate](/files/PrincipalScholarship5.pdf)\] 
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
