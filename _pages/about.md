@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bohang Zhang (张博航), a final-year Phd. student at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Ph.D., I completed my undergraduate studies at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majoring in Computer Science.
+Hi! I'm Bohang Zhang (张博航), a Ph.D. graduate at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Ph.D., I completed my undergraduate studies at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majoring in Computer Science.
 
-My main research area lies in studying the foundations of machine learning, especially **the expressive power of neural networks**. My work provides insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. Here are several research areas I am interested in:
+My main research area lies in studying the foundations of machine learning, such as **the expressive power, robustness, and optimization of neural networks**. My work provides theoretical and algorithmic insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. My first-authored papers has won the **<font color=red>ICLR 2023 Outstanding Paper Award</font>** and **<font color=red>ICLR 2024 Outstanding Paper Honorable Mention</font>**. My Ph.D. thesis has been selected as the **Outstanding Doctoral Dissertation** in Peking University.
+
+Here are several research areas I worked on:
 * Understanding the power and limitations of large language models (LLMs) in complex reasoning.
 * Analyzing the expressive power of graph neural networks (GNNs), providing guaidance on the GNNs design principles that enable them to effectively represent the necessary graph structural information.
 * Designing powerful Lipschitz neural networks with *certified* robustness gurantees, i.e. achieving provable robustness under adversarial attacks.
-* Previously, I was also interested in designing and analyzing optimization algorithms for efficient neural network training.
+* Designing and analyzing optimization algorithms for efficient neural network training.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or Wechat.
 
@@ -62,6 +64,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * **<font color=red>Bytedance Scholarship</font>**, 2023. \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University.
 * ACM ICPC **<font color=red>World Finalist</font>** (ranking 41/135), Porto Portugal, 2019. \[[Certificate](/files/WorldFinalCertificate.pdf)\]\[[Certificate](/files/WorldFinalCertificateIndividual.pdf)\]
+* **<font color=red>Outstanding Doctoral Dissertation</font>**. Awarded annually to about top 3\% Ph.D. graduates in Peking University.
 * Beijing outstanding PhD graduates, 2024.
 * ACM ICPC East Asia Continent Final **Gold Award** (ranking 8/382), Xi'an China, 2018. \[[Certificate](/files/ECFinalCertificateTeam.pdf)\]\[[Certificate](/files/ECFinalCertificate.pdf)\]
 * ACM ICPC **2nd Runner up** (**Gold Award**, ranking 4/298), Jiaozuo China, 2018. \[[Certificate](/files/JiaozuoCertificate.pdf)\]
@@ -69,6 +72,11 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 
 💬 Invited Talks
 ======
+* Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness.
+  * 2023.6.27. Hosted by [AI Time](https://www.aitime.cn/). \[[News](https://mp.weixin.qq.com/s/akbf-vBvk5xe48sxJQf8qQ)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2023.7.9. Hosted by [Prof. Christopher Morris](https://chrsmrrs.github.io/) and [Luis Müller](https://luis-mueller.github.io/) in [RWTH University](https://www.rwth-aachen.de/go/id/a/?lidx=1). \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2023.7.19. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/Pih8KXORGTTWsbvVsAxR4Q)\] \[[Slides](/files/Homomorphism_Slides.pdf)\] 
+  * 2023.7.21. Hosted by CCF Theoretical Computer Science Symposium. \[[Handbook](/files/CCFHandbook.pdf)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
   * 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[Slides](/files/CoT_Slides.pdf)\] 
