@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Bohang Zhang (张博航), a Ph.D. graduate at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I also work closely with [Prof. Di He](https://dihe-pku.github.io/). Before starting Ph.D., I completed my undergraduate studies at School of the Gifted Young (少年班) in Xi'an Jiaotong University, majoring in Computer Science.
 
-My main research area lies in studying the foundations of machine learning, such as **the expressive power, robustness, and optimization of neural networks**. My work provides theoretical and algorithmic insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. My first-authored papers have won the **<font color=red>ICLR 2023 Outstanding Paper Award</font>** and **<font color=red>ICLR 2024 Outstanding Paper Honorable Mention</font>**. My Ph.D. thesis has been selected as the **Outstanding Doctoral Dissertation** in Peking University.
+My main research area lies in studying the foundations of machine learning, such as **the expressive power, robustness, and optimization of neural networks**. My work provides theoretical and algorithmic insights into the strengths and weaknesses of fundamental deep learning models and algorithms (often through a **computer science** perspective), based on which I design new (provably better) models/algorithms. My first-authored papers have won the **<font color=red>ICLR 2023 Outstanding Paper Award</font>** and **<font color=red>ICLR 2024 Outstanding Paper Honorable Mention</font>**. My Ph.D. thesis has been selected as the **<font color=red>CAAI Outstanding Doctoral Dissertation Hornarable Mention</font>** as well as the **Outstanding Doctoral Dissertation** in Peking University.
 
 Here are several research areas I worked on:
 * Understanding the power and limitations of large language models (LLMs) in complex reasoning.
@@ -23,12 +23,17 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 📝 Publications
 ======
-<sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
+For brievity, below only lists publications where I serve as either first author or project lead.
 
+<sub>\* means equal contribution. <sub>† means project lead. See the [Publications](/publications/) page for more details. </sub>
+
+* [Homomorphism Expressivity of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
+Jingchu Gai, Yiheng Du, **Bohang Zhang**†, Haggai Maron, Liwei Wang. In [**ICLR 2025**](https://iclr.cc//Conferences/2025).\\
+(**<font color=red>Oral Presentation, 1.8% acceptance rate</font>**)
 * [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
 **Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]
 * [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
-Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**†, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
 (**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate</font>**)
@@ -61,6 +66,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 * ICLR 2023 **<font color=red>Outstanding Paper Award</font>** (top 4/4966). \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] \[[Certificate](/files/ICLR2023_Outstanding Paper Award.pdf)\]
 * ICLR 2024 **<font color=red>Outstanding Paper Award Honorable Mention</font>** (top 17/7262). 
 \[[Link](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] \[[Certificate](/files/ICLR2024_Outstanding_Paper_Award_Honorable_Mention.pdf)\]
+* **<font color=red>CAAI Outstanding Doctoral Dissertation Hornarable Mention</font>**. Awarded annually to 10 Ph.D. graduates in China.
 * **<font color=red>Outstanding Doctoral Dissertation</font>**. Awarded annually to about 3% Ph.D. graduates in Peking University.
 * **<font color=red>Bytedance Scholarship</font>**, 2023. Awarded annually to about 10 students in China. \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University. \[[Certificate](/files/PrincipalScholarship1.pdf)\] \[[Certificate](/files/PrincipalScholarship2.pdf)\] \[[Certificate](/files/PrincipalScholarship3.pdf)\] \[[Certificate](/files/PrincipalScholarship4.pdf)\] \[[Certificate](/files/PrincipalScholarship5.pdf)\] 
@@ -73,10 +79,11 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 💬 Invited Talks
 ======
 * Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness.
-  * 2023.6.27. Hosted by [AI Time](https://www.aitime.cn/). \[[News](https://mp.weixin.qq.com/s/akbf-vBvk5xe48sxJQf8qQ)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
-  * 2023.7.9. Hosted by [Prof. Christopher Morris](https://chrsmrrs.github.io/) and [Luis Müller](https://luis-mueller.github.io/) in [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1). \[[Slides](/files/Homomorphism_Slides.pdf)\]
-  * 2023.7.19. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/Pih8KXORGTTWsbvVsAxR4Q)\] \[[Slides](/files/Homomorphism_Slides.pdf)\] 
-  * 2023.7.21. Hosted by CCF Theoretical Computer Science Symposium. \[[Handbook](/files/CCFHandbook.pdf)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2024.6.27. Hosted by [AI Time](https://www.aitime.cn/). \[[News](https://mp.weixin.qq.com/s/akbf-vBvk5xe48sxJQf8qQ)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2024.7.9. Hosted by [Prof. Christopher Morris](https://chrsmrrs.github.io/) and [Luis Müller](https://luis-mueller.github.io/) in [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1). \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2024.7.19. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[News](https://mp.weixin.qq.com/s/Pih8KXORGTTWsbvVsAxR4Q)\] \[[Slides](/files/Homomorphism_Slides.pdf)\] 
+  * 2024.7.21. Hosted by CCF Theoretical Computer Science Symposium. \[[Handbook](/files/CCFHandbook.pdf)\] \[[Slides](/files/Homomorphism_Slides.pdf)\]
+  * 2024.10.21. Hosted by [Institute for Mathematical Science](https://ims.nus.edu.sg/) in [NUS](https://nus.edu.sg/). \[[Slides](/files/Homomorphism_Slides.pdf)\]
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). \[[Slides](/files/CoT_Slides.pdf)\] 
   * 2023.11.17. Hosted by [FAI Seminar](https://www.tengjiaye.com/seminar.html). \[[Slides](/files/CoT_Slides.pdf)\] 

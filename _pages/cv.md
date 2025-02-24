@@ -47,7 +47,13 @@ Physics courses:
 
 📝 Publications
 ======
+For brievity, below only lists publications where I serve as either first author or project lead.
 
+<sub>\* means equal contribution. <sub>† means project lead. See the [Publications](/publications/) page for more details. </sub>
+
+* [Homomorphism Expressivity of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
+Jingchu Gai, Yiheng Du, **Bohang Zhang**†, Haggai Maron, Liwei Wang. In [**ICLR 2025**](https://iclr.cc//Conferences/2025).\\
+(**<font color=red>Oral Presentation, 1.8% acceptance rate</font>**)
 * [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
 **Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]
 * [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
@@ -83,6 +89,7 @@ Jikai Jin\*, **Bohang Zhang\***, Haiyang Wang, Liwei Wang. In [**NeurIPS 2021**]
 \[[Link](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] \[[Certificate](/files/ICLR2023_Outstanding Paper Award.pdf)\] 
 * ICLR 2024 **<font color=red>Outstanding Paper Award Honorable Mention</font>** (top 17/7262). 
 \[[Link](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] \[[Certificate](/files/ICLR2024_Outstanding_Paper_Award_Honorable_Mention.pdf)\]
+* **<font color=red>CAAI Outstanding Doctoral Dissertation Hornarable Mention</font>**. Awarded annually to 10 Ph.D. graduates in China.
 * **<font color=red>Outstanding Doctoral Dissertation</font>**. Awarded annually to about 3% Ph.D. graduates in Peking University.
 * **<font color=red>Bytedance Scholarship</font>**, 2023. Awarded annually to about 10 students in China.  \[[Link](https://ur.bytedance.com/scholarship)\] \[[Certificate](/files/bytedance_scholarship.jpg)\]
 * **Principal Scholarship**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. Awarded annually to top 1 student in the same grade in School of Artificial Intelligence, Peking University. \[[Certificate](/files/PrincipalScholarship1.pdf)\] \[[Certificate](/files/PrincipalScholarship2.pdf)\] \[[Certificate](/files/PrincipalScholarship3.pdf)\] \[[Certificate](/files/PrincipalScholarship4.pdf)\] \[[Certificate](/files/PrincipalScholarship5.pdf)\] 
