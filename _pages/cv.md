@@ -47,9 +47,9 @@ Physics courses:
 
 📝 Publications
 ======
-For brievity, below only lists publications where I serve as either first author or project lead.
+For brievity, below only lists publications where I serve as either (co-)first author or project lead.
 
-<sub>\* means equal contribution. <sub>† means project lead. See the [Publications](/publications/) page for more details. </sub>
+<sub>\* means equal contribution. † means project lead. See the [Publications](/publications/) page for more details. </sub>
 
 * [Homomorphism Expressivity of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
 Jingchu Gai, Yiheng Du, **Bohang Zhang**†, Haggai Maron, Liwei Wang. In [**ICLR 2025**](https://iclr.cc//Conferences/2025).\\
@@ -57,7 +57,7 @@ Jingchu Gai, Yiheng Du, **Bohang Zhang**†, Haggai Maron, Liwei Wang. In [**ICL
 * [On the Expressive Power of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
 **Bohang Zhang**, Lingxiao Zhao, Haggai Maron. In [**ICML 2024**](https://icml.cc//Conferences/2024). \[[Code](https://github.com/LingxiaoShawn/EPNN-Experiments)\]
 * [Do Efficient Transformers Really Save Computation](https://arxiv.org/abs/2402.13934).\\
-Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, **Bohang Zhang**†, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [**ICML 2024**](https://icml.cc//Conferences/2024).
 * [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514).\\
 **Bohang Zhang\***, Jingchu Gai\*, Yiheng Du, Qiwei Ye, Di He, Liwei Wang. In [**ICLR 2024**](https://iclr.cc//Conferences/2024). \[[Code](https://github.com/subgraph23/homomorphism-expressivity)\]\\
 (**<font color=red>Outstanding Paper Award Honorable Mention, 0.23% acceptance rate</font>**)

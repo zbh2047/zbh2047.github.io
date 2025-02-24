@@ -7,7 +7,7 @@ excerpt: "My homepage in Chinese."
 
 我叫张博航，北京大学博士毕业生，导师是 [王立威](http://www.liweiwang-pku.com/) 教授。我也与 [贺笛](dihe-pku.github.io/) 教授紧密合作。在此之前，我就读于 [西安交通大学少年班](https://baike.baidu.com/item/%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%B0%91%E5%B9%B4%E7%8F%AD/58501505) ，专业为计算机科学。
 
-我的主要研究方向是机器学习中重要的基础性问题，例如**神经网络表达能力、鲁棒性、以及优化**。我的工作从理论和算法的角度（通常以计算机科学的视角）对基本深度学习模型和算法的优缺点提供见解，并在此基础上设计新的（可证明更优的）模型/算法。我以第一作者身份发表的论文获得了 **<font color=red>ICLR 2023杰出论文奖</font>** 和 **<font color=red>ICLR 2024杰出论文奖荣誉提名</font>**。我的博士论文被评为**<font color=red>中国人工智能学会优秀博士论文荣誉提名**以及**北京大学优秀博士论文**。
+我的主要研究方向是机器学习中重要的基础性问题，例如**神经网络表达能力、鲁棒性、以及优化**。我的工作从理论和算法的角度（通常以计算机科学的视角）对基本深度学习模型和算法的优缺点提供见解，并在此基础上设计新的（可证明更优的）模型/算法。我以第一作者身份发表的论文获得了 **<font color=red>ICLR 2023杰出论文奖</font>** 和 **<font color=red>ICLR 2024杰出论文奖荣誉提名</font>**。我的博士论文被评为**<font color=red>中国人工智能学会优秀博士论文荣誉提名</font>**以及**北京大学优秀博士论文**。
 
 以下是我从事的几个研究领域：
 
@@ -21,7 +21,7 @@ excerpt: "My homepage in Chinese."
 ======
 为简明起见，以下仅列出我作为（共同）第一作者或项目负责人的论文。
 
-<sub>\* 表示共同第一作者。<sub>† 表示项目负责人。详情见[论文列表](/publications/)。</sub>
+<sub>\* 表示共同第一作者。† 表示项目负责人。详情见[论文列表](/publications/)。</sub>
 
 * [Homomorphism Expressivity of Spectral Invariant Graph Neural Networks](https://arxiv.org/abs/2406.04336).\\
 盖景初, 杜逸恒, **张博航**†, Haggai Maron, 王立威. In [**ICLR 2025**](https://iclr.cc//Conferences/2025).\\
@@ -60,7 +60,7 @@ excerpt: "My homepage in Chinese."
 * 机器学习国际顶会 ICLR 2023 **<font color=red>杰出论文奖</font>** (获奖率 4/4966). \[[链接](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)\] \[[证书](/files/ICLR2023_Outstanding Paper Award.pdf)\]
 * 机器学习国际顶会 ICLR 2024 **<font color=red>杰出论文奖荣誉提名</font>** (获奖率 17/7262). 
 \[[链接](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/)\] \[[证书](/files/ICLR2024_Outstanding_Paper_Award_Honorable_Mention.pdf)\]
-* **<font color=red>中国人工之人协会优秀博士学位论文荣誉提名</font>**, 2024. 每年授予10名中国博士毕业生. 
+* **<font color=red>中国人工智能协会优秀博士学位论文荣誉提名</font>**, 2024. 每年授予10名中国博士毕业生. 
 * **<font color=red>优秀博士学位论文</font>**, 2024. 每年授予北京大学全校约3%的博士毕业生. 
 * **<font color=red>字节跳动奖学金</font>**, 2023. 每年授予中国约10名学生. \[[链接](https://ur.bytedance.com/scholarship)\] \[[证书](/files/bytedance_scholarship.jpg)\]
 * **北京大学校长奖学金**, 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024. 每年授予北京大学智能学院同级一名学生. \[[证书](/files/PrincipalScholarship1.pdf)\] \[[证书](/files/PrincipalScholarship2.pdf)\] \[[证书](/files/PrincipalScholarship3.pdf)\] \[[证书](/files/PrincipalScholarship4.pdf)\] \[[证书](/files/PrincipalScholarship5.pdf)\] 
@@ -73,10 +73,10 @@ excerpt: "My homepage in Chinese."
 💬 受邀报告
 ======
 * Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness.
-  * 2023.6.27. 由 [AI Time](https://www.aitime.cn/) 举办. \[[新闻](https://mp.weixin.qq.com/s/akbf-vBvk5xe48sxJQf8qQ)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
-  * 2023.7.9. 由来自 [亚琛工业大学](https://www.rwth-aachen.de/go/id/a/?lidx=1) 的 [Christopher Morris](https://chrsmrrs.github.io/) 教授和 [Luis Müller](https://luis-mueller.github.io/) 主持. \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
-  * 2023.7.19. 由 [FAI Seminar](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/Pih8KXORGTTWsbvVsAxR4Q)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\] 
-  * 2023.7.21. 由 CCF 理论计算机科学年会举办. \[[Handbook](/files/CCFHandbook.pdf)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
+  * 2024.6.27. 由 [AI Time](https://www.aitime.cn/) 举办. \[[新闻](https://mp.weixin.qq.com/s/akbf-vBvk5xe48sxJQf8qQ)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
+  * 2024.7.9. 由来自 [亚琛工业大学](https://www.rwth-aachen.de/go/id/a/?lidx=1) 的 [Christopher Morris](https://chrsmrrs.github.io/) 教授和 [Luis Müller](https://luis-mueller.github.io/) 主持. \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
+  * 2024.7.19. 由 [FAI Seminar](https://www.tengjiaye.com/seminar.html) 举办. \[[新闻](https://mp.weixin.qq.com/s/Pih8KXORGTTWsbvVsAxR4Q)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\] 
+  * 2024.7.21. 由 CCF 理论计算机科学年会举办. \[[Handbook](/files/CCFHandbook.pdf)\] \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
   * 2024.10.21. 由 [新加坡国立大学](https://nus.edu.sg/) [数学科学学院](https://ims.nus.edu.sg/) 举办. \[[幻灯片](/files/Homomorphism_Slides.pdf)\]
 * Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective.
   * 2023.6.8. [华为诺亚实验室](https://noahlab.com.hk/#/home). \[[幻灯片](/files/CoT_Slides.pdf)\] 
